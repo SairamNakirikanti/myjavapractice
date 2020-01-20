@@ -1,0 +1,2 @@
+# myjavapractice
+For practising java
